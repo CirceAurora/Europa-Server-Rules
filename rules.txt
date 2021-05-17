@@ -1,6 +1,10 @@
 **__Rules__:**
-Last updated: 2021-05-07
+Last updated: {date}
 **¹** This is to be determined at moderator's discretion.
+**²** Applies to regular members only for moderation purposes.
+
+The rules below make more sense if read with a warning attached. Such as `?warn <@628611398108315696> Rule 1.1`.
+If you do anything that is stated below, action will be taken.
 
 > `1)  ` **Server Rules**
 > `1.1)` Abusing loopholes within <#833335772614492200>. Don't argue and try to be smart about it.
@@ -10,10 +14,10 @@ Last updated: 2021-05-07
 > `1.5)` Using old rules. Rules will be updated in <#835491648246906880> with all changes stated and are effective immediately.
 ==----==
 > `2)  ` **User Rules**
-> `2.1)` Non-mentionable usernames/nicknames.
-> `2.2)` Transparent profile pictures.
+> `2.1)` Non-mentionable username and nickname.**²**
+> `2.2)` Completely transparent profile picture.**¹**
 > `2.3)` Full or partial impersonation. Discord Bots and Users, YouTubers, real people, etc. are included.
-> `2.4)` Using alternate accounts (Alts). All Alts will be banned.
+> `2.4)` Using alternate accounts (Alts). All Alts will be banned.**²**
 ==----==
 > `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone
 > `3.1)` Discriminatory practices. We have a zero-tolerance policy for it and severe action will be taken.
@@ -21,7 +25,7 @@ Last updated: 2021-05-07
 > `3.3)` Posting about political, sensitive, triggering, or similar subjects.
 > `3.4)` Causing drama or bringing in drama.
 > `3.5)` Not using English. Sorry, but the moderators and most users can only understand English.**¹**
-> `3.6)` Spamming.**¹**
+> `3.6)` Spamming. Copypasta is included!**¹**
 > `3.7)` Causing discomfort. This includes playing high pitch sounds in VC!
 > `3.8)` Trolling. It's stressful and isn't fun.
 > `3.9)` Causing arguments. Remember we all have opinions!
@@ -48,21 +52,33 @@ Last updated: 2021-05-07
 > `7)  ` **Using <@466378653216014359>** - All rules still apply
 > `7.1)` Using it without a plural system. If you don't know what it is, please don't use it, as it can be seen as offensive.
 > `7.2)` Sending commands in a channel that isn't <#833340626351292477>.
+> `7.3)` No system tag. This is to help understand what account the message came from.
 ==----==
 > `8)  ` **Using <@575252669443211264>** - Send complaints privately to all moderators
 > `8.1)` Usage for non-urgent matters.
 > `8.2)` False information.
-==----==
-**__Notes:__**
 
+**__Notes:__**
+> **Rules**
+> The rules can and will change. You can make suggestions at <#840082092750667777> or on the [GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>).
+> Changes are automatically made and an announcement will be made.
+> Breaking most rules will only result in a warning (Either through Dyno or verbal) unless repeated.
+> If you are not sure if your content will break the rules, either don't share it or ask a moderator beforehand.
+==----==
+> **Channels**
+> If you are unsure if your content belongs in a channel, read the topic! If you don't know how to read it, ask in <#833337196463128596>.
+> You can add <#840082092750667777> for new channels or changing the topic description if it isn't clear.
+==----==
 > **Users with bot tag (Webhooks)**
 > Webhooks are not the same as bots despite looking very similar. Please be mindful of this. <@466378653216014359> and <@559426966151757824> use webhooks for various reasons.
 ==----==
 > **Bot: <@466378653216014359>**
 > <@466378653216014359> was added to the server for people who have plural systems to express themselves, not as a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
+> You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Sophia`.
 ==----==
 > **Bot: <@559426966151757824>**
 > <@559426966151757824> (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.
 ==----==
-> **ModMail**
-> <@575252669443211264> is used for when you need to contact a moderator about an urgent issue such as reporting a user. All messages are viewable to all moderators but is hidden from users.
+> **Bot: <@575252669443211264>**
+> You can use <@575252669443211264> to send reports of other users discretely.
+> To send a report, DM the bot with the report and follow it's instructions. All moderators can see and respond but it is hidden to normal users. Do not misuse or spam it or action will be taken.
