@@ -2,11 +2,11 @@ const fetch = require('node-fetch');
 const moment = require('moment');
 const fs = require("fs")
 
-const rulesChannel = ""
-const token = ""
-const rulesWebhook = ""
-const announcementWebhook = ""
-const hash = ""
+const token = process.env.TOKEN
+const rulesChannel = process.env.RULES_CHANNEL
+const rulesWebhook = process.env.RULES_WEBHOOK
+const announcementWebhook = process.env.ANNOUNCEMENT_WEBHOOK
+const hash = process.env.GITHUB_SHA
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -55,7 +55,7 @@ async function main() {
         method: 'post',
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-            content: "",
+            content: `@everyone\nAn admin changed the rules. See the changes [here](https://github.com/SophiaFoxyCoxy/Europa-Server-Rules/commit/${hash})`,)
             username: profile.name,
             avatar_url: profile.avatar_url,
             allowed_mentions: { "parse": ["everyone"] }
