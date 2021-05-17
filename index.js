@@ -35,13 +35,13 @@ async function main() {
     i = 0
     for (const message of rules) {
         console.log(`Sending message ${++i} of ${rules.length}...`)
-        if (log === "") continue
+        if (message === "") continue
 
         await fetch(rulesWebhook, {
             method: 'post',
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-                content: log.replaceAll("{date}", datetime),
+                content: message.replaceAll("{date}", datetime),
                 username: profile.name,
                 avatar_url: profile.avatar_url,
                 allowed_mentions: { "parse": [] }
