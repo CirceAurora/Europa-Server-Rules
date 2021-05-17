@@ -19,9 +19,9 @@ jobs:
         with:
           node-version: 12
         env:
-          token: ${{ secrets.TOKEN }}
-          rulesChannel: ${{ secrets.RULES_CHANNEL }}
-          rulesWebhook: ${{ secrets.RULES_WEBHOOK }}
-          announcementWebhook: ${{ secrets.ANNOUNCEMENT_WEBHOOK }}
+          TOKEN: ${{ secrets.TOKEN }}
+          RULES_CHANNEL: ${{ secrets.RULES_CHANNEL }}
+          RULES_WEBHOOK: ${{ secrets.RULES_WEBHOOK }}
+          ANNOUNCEMENT_WEBHOOK: ${{ secrets.ANNOUNCEMENT_WEBHOOK }}
       - run: npm ci
       - run: node index.js
