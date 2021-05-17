@@ -18,10 +18,10 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 12
+      - run: npm ci
+      - run: node index.js
         env:
           TOKEN: ${{ secrets.TOKEN }}
           RULES_CHANNEL: ${{ secrets.RULES_CHANNEL }}
           RULES_WEBHOOK: ${{ secrets.RULES_WEBHOOK }}
           ANNOUNCEMENT_WEBHOOK: ${{ secrets.ANNOUNCEMENT_WEBHOOK }}
-      - run: npm ci
-      - run: node index.js
