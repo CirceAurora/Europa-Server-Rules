@@ -1,5 +1,68 @@
-test
+**__Rules__:**
+Last updated: 2021-05-07
+**¹** This is to be determined at moderator's discretion.
+
+> `1)  ` **Server Rules**
+> `1.1)` Abusing loopholes within <#833335772614492200>. Don't argue and try to be smart about it.
+> `1.2)` Arguing with a moderator. If you have a problem about a moderator, please DM <@539609203732643850>.
+> `1.3)` Punishment evasion. Finding an exploit in permissions or using another account.
+> `1.4)` NSFW content. This includes usernames, nicknames, profile pictures, etc. This is a PG-13 server!
+> `1.5)` Using old rules. Rules will be updated in <#835491648246906880> with all changes stated and are effective immediately.
 ==----==
-test2
+> `2)  ` **User Rules**
+> `2.1)` Non-mentionable usernames/nicknames.
+> `2.2)` Transparent profile pictures.
+> `2.3)` Full or partial impersonation. Discord Bots and Users, YouTubers, real people, etc. are included.
+> `2.4)` Using alternate accounts (Alts). All Alts will be banned.
 ==----==
-I am silly v5.jpg
+> `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone
+> `3.1)` Discriminatory practices. We have a zero-tolerance policy for it and severe action will be taken.
+> `3.2)` Harassment, immature, or disrespectful behaviour. Saying something is a joke is not an excuse.
+> `3.3)` Posting about political, sensitive, triggering, or similar subjects.
+> `3.4)` Causing drama or bringing in drama.
+> `3.5)` Not using English. Sorry, but the moderators and most users can only understand English.**¹**
+> `3.6)` Spamming.**¹**
+> `3.7)` Causing discomfort. This includes playing high pitch sounds in VC!
+> `3.8)` Trolling. It's stressful and isn't fun.
+> `3.9)` Causing arguments. Remember we all have opinions!
+> `3.A)` Pinging randomly. It's annoying, don't.
+==----==
+> `4)  ` **Channel Rules** - Let's keep things neat
+> `4.1)` Misuse of channels. Read channel topics for an idea of what they're used for.**¹**
+> `4.2)` Excessive posting of pictures in general chat.**¹**
+> `4.3)` Using bot commands in the incorrect channel. Use the bots in <#833337845288665139>.**¹**
+> `4.4)` Using music bot commands outside of <#833340606767300618>.
+==----==
+> `5)  ` **Advertising**
+> `5.1)` Advertising in any other channel but <#833392540974710795>.
+> `5.2)` Sending a Discord invite link.
+> `5.3)` Unacceptable type or subject of advertisement. Read the topic of <#833392540974710795> for more information.
+==----==
+> `6)  ` **Follow Discord [ToS](<https://discord.com/terms<) and [Guidelines](<https://discord.com/guidelines>)**
+> `6.1)` Underage. Be 13 or older. People found to be underage will be reported and banned.
+> `6.2)` Requesting or posting links to pirated software, including abandonware.
+> `6.3)` Malicious activities such as hacking, sharing of viruses, or scamming.
+> `6.4)` Posting of gore or NSFW content. This is against ToS and, as stated before, this is a PG-13 server.**¹**
+> `6.5)` Sharing illegal content.
+==----==
+> `7)  ` **Using <@466378653216014359>** - All rules still apply
+> `7.1)` Using it without a plural system. If you don't know what it is, please don't use it, as it can be seen as offensive.
+> `7.2)` Sending commands in a channel that isn't <#833340626351292477>.
+==----==
+> `8)  ` **Using <@575252669443211264>** - Send complaints privately to all moderators
+> `8.1)` Usage for non-urgent matters.
+> `8.2)` False information.
+==----==
+**__Notes:__**
+
+> **Users with bot tag (Webhooks)**
+> Webhooks are not the same as bots despite looking very similar. Please be mindful of this. <@466378653216014359> and <@559426966151757824> use webhooks for various reasons.
+==----==
+> **Bot: <@466378653216014359>**
+> <@466378653216014359> was added to the server for people who have plural systems to express themselves, not as a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
+==----==
+> **Bot: <@559426966151757824>**
+> <@559426966151757824> (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.
+==----==
+> **ModMail**
+> <@575252669443211264> is used for when you need to contact a moderator about an urgent issue such as reporting a user. All messages are viewable to all moderators but is hidden from users.

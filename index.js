@@ -55,7 +55,7 @@ async function main() {
         method: 'post',
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-            content: `@everyone\nAn admin changed the rules. See the changes [here](https://github.com/SophiaFoxyCoxy/Europa-Server-Rules/commit/${hash})`,
+            content: `@everyone\nAn admin changed the rules. See the changes [here](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules/commit/${hash}>)`,
             username: profile.name,
             avatar_url: profile.avatar_url,
             allowed_mentions: { "parse": ["everyone"] }
