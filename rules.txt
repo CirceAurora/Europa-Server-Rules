@@ -82,3 +82,14 @@ If you do anything that is stated below, action will be taken.
 > **Bot: <@575252669443211264>**
 > You can use <@575252669443211264> to send reports of other users discretely.
 > To send a report, DM the bot with the report and follow it's instructions. All moderators can see and respond but it is hidden to normal users. Do not misuse or spam it or action will be taken.
+==----==
+**Quick Guide to Using NotQuiteNitro (NQN)**
+
+> Use `!alias` to get started. This will bring up a list of commands.
+> To get a list of your current aliases, run `!alias list` or `!alias dm`. To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).
+> A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.
+
+> To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive.
+> The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.
+
+> Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
