@@ -1,5 +1,5 @@
-const fetch = require('node-fetch');
-const moment = require('moment');
+const fetch = require('node-fetch')
+const moment = require('moment')
 const fs = require("fs")
 
 const token = process.env.TOKEN
@@ -9,7 +9,15 @@ const announcementWebhook = process.env.ANNOUNCEMENT_WEBHOOK
 const hash = process.env.GITHUB_SHA
 
 function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
+    return new Promise(resolve => setTimeout(resolve, ms))
+}
+
+async function checkStatus(res) {
+    if (res.ok) {
+        return res
+    } else {
+        throw new Error(`Fetch Failed - ${res.status} ${res.statusText} - ${await res.text()}`)
+    }
 }
 
 async function main() {
@@ -23,12 +31,12 @@ async function main() {
 
     console.log("Fetching messages...")
     const headers = { Authorization: `Bot ${token}` }
-    const messages = await fetch(`https://discord.com/api/v9/channels/${rulesChannel}/messages`, { headers }).then(res => res.json())
+    const messages = await fetch(`https://discord.com/api/v9/channels/${rulesChannel}/messages`, { headers }).then(checkStatus).then(res => res.json())
 
     let i = 0
     for (const message of messages) {
         console.log(`Deleting message ${++i} of ${messages.length}...`)
-        await fetch(`https://discord.com/api/v9/channels/${rulesChannel}/messages/${message.id}`, { method: "DELETE", headers })
+        await fetch(`https://discord.com/api/v9/channels/${rulesChannel}/messages/${message.id}`, { method: "DELETE", headers }).then(checkStatus)
         await sleep(1250)
     }
 
@@ -46,7 +54,7 @@ async function main() {
                 avatar_url: profile.avatar_url,
                 allowed_mentions: { "parse": [] }
             })
-        })
+        }).then(checkStatus)
         await sleep(1250)
     }
 
@@ -60,9 +68,12 @@ async function main() {
             avatar_url: profile.avatar_url,
             allowed_mentions: { "parse": ["everyone"] }
         })
-    })
+    }).then(checkStatus)
 
     console.log("Done!")
 }
 
-main()
+main().catch((e) => {
+   console.log(e)
+   process.exit(1)
+})
