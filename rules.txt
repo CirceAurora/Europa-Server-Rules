@@ -1,7 +1,8 @@
 **__Rules__:**
-Last updated: {date}
+**Last updated:** {date}
 **¹** This is to be determined at moderator's discretion.
-**²** Applies to regular members only for moderation purposes.
+**²** Applies to regular members only for moderation purposes. <@&835268804149379154> and Staff are excluded.
+**³** One or two, or related to the conversation is acceptable.
 
 The rules below make more sense if read with a warning attached. Such as `?warn <@628611398108315696> Rule 1.1`.
 If you do anything that is stated below, action will be taken.
@@ -22,7 +23,7 @@ If you do anything that is stated below, action will be taken.
 > `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone
 > `3.1)` Discriminatory practices. We have a zero-tolerance policy for it and severe action will be taken.
 > `3.2)` Harassment, immature, or disrespectful behaviour. Saying something is a joke is not an excuse.
-> `3.3)` Posting about political, sensitive, triggering, or similar subjects.
+> `3.3)` Posting about political, sensitive, triggering, or similar subjects.**¹**
 > `3.4)` Causing drama or bringing in drama.
 > `3.5)` Not using English. Sorry, but the moderators and most users can only understand English.**¹**
 > `3.6)` Spamming. Copypasta is included!**¹**
@@ -34,8 +35,9 @@ If you do anything that is stated below, action will be taken.
 > `4)  ` **Channel Rules** - Let's keep things neat
 > `4.1)` Misuse of channels. Read channel topics for an idea of what they're used for.**¹**
 > `4.2)` Excessive posting of pictures in general chat.**¹**
-> `4.3)` Using bot commands in the incorrect channel. Use the bots in <#833337845288665139>.**¹**
+> `4.3)` Using bot commands in the incorrect channel. Use the bots in <#833337845288665139>.**³**
 > `4.4)` Using music bot commands outside of <#833340606767300618>.
+> `4.5)` Posting user created content outside of <#833392540974710795>.
 ==----==
 > `5)  ` **Advertising**
 > `5.1)` Advertising in any other channel but <#833392540974710795>.
@@ -62,7 +64,7 @@ If you do anything that is stated below, action will be taken.
 > **Rules**
 > The rules can and will change. You can make suggestions at <#840082092750667777> or on the [GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>).
 > Changes are automatically made and an announcement will be made.
-> Breaking most rules will only result in a warning (Either through Dyno or verbal) unless repeated.
+> Breaking most rules will only result in a verbal warning unless repeated. However, some rules are enforced more heavily than others. Breaking them will result in a harsher punishment.
 > If you are not sure if your content will break the rules, either don't share it or ask a moderator beforehand.
 ==----==
 > **Channels**
@@ -78,18 +80,19 @@ If you do anything that is stated below, action will be taken.
 ==----==
 > **Bot: <@559426966151757824>**
 > <@559426966151757824> (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.
+> 
+> Use `!alias` to get started. This will bring up a list of commands.
+> To get a list of your current aliases, run `!alias list` or `!alias dm`.
+> To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).
+> A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.
+> 
+> To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive. The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.
+> 
+> Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
 ==----==
 > **Bot: <@575252669443211264>**
 > You can use <@575252669443211264> to send reports of other users discretely.
-> To send a report, DM the bot with the report and follow it's instructions. All moderators can see and respond but it is hidden to normal users. Do not misuse or spam it or action will be taken.
-==----==
-**Quick Guide to Using NotQuiteNitro (NQN)**
-
-> Use `!alias` to get started. This will bring up a list of commands.
-> To get a list of your current aliases, run `!alias list` or `!alias dm`. To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).
-> A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.
-
-> To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive.
-> The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.
-
-> Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
+> 
+> To send a report, DM the bot with the report and follow it's instructions.
+> All moderators can see and respond but it is hidden to normal users.
+> Do not misuse or spam it or action will be taken.
