@@ -4,7 +4,7 @@
 **²** Applies to regular members only for moderation purposes. <@&835268804149379154> and Staff are excluded.
 **³** Related to the conversation is acceptable.
 
-The rules below make more sense if read with a warning attached. Such as `?warn <@628611398108315696> Rule 1.1`.
+The rules below make more sense if read with a warning attached. Such as "?warn <@628611398108315696> Rule 1.1"
 If you do anything that is stated below, action will be taken.
 
 > `1)  ` **Server Rules**
@@ -39,27 +39,29 @@ If you do anything that is stated below, action will be taken.
 > `4.4)` Using music bot commands outside of <#833340606767300618>.
 > `4.5)` Posting user created content outside of <#833392540974710795>.
 ==----==
-> `5)  ` **Advertising**
+> `5)  ` **Sending Advertising**
 > `5.1)` Advertising in any other channel but <#833392540974710795>.
 > `5.2)` Sending a Discord invite link.
 > `5.3)` Unacceptable type or subject of advertisement. Read the topic of <#833392540974710795> for more information.
+> `5.4)` Sending advertisements in DMs.
 ==----==
-> `6)  ` **Follow Discord [ToS](<https://discord.com/terms<) and [Guidelines](<https://discord.com/guidelines>)**
+> `6)  ` **Breaking Discord [ToS](<https://discord.com/terms<) and [Guidelines](<https://discord.com/guidelines>)**
 > `6.1)` Underage. Be 13 or older. People found to be underage will be reported and banned.
 > `6.2)` Requesting or posting links to pirated software, including abandonware.
 > `6.3)` Malicious activities such as hacking, sharing of viruses, or scamming.
 > `6.4)` Posting of gore or NSFW content. This is against ToS and, as stated before, this is a PG-13 server.**¹**
 > `6.5)` Sharing illegal content.
 ==----==
-> `7)  ` **Using <@466378653216014359>** - All rules still apply
+> `7)  ` **Misusing <@466378653216014359>** - All rules still apply
 > `7.1)` Using it without a plural system. If you don't know what it is, please don't use it, as it can be seen as offensive.
-> `7.2)` Sending commands in a channel that isn't <#833340626351292477>.
+> `7.2)` Sending commands in a channel that isn't <#833340626351292477>.**³**
 > `7.3)` No system tag. This is to help understand what account the message came from.
 ==----==
-> `8)  ` **Using <@575252669443211264>** - Send complaints privately to all moderators
-> `8.1)` Usage for non-urgent matters/spam.
+> `8)  ` **Misusing <@575252669443211264>** - Send complaints privately to all moderators
+> `8.1)` Usage for non-urgent matters.
 > `8.2)` False and edited information.
-> `8.3)` Taking things out of appropriate context to make people look bad.
+> `8.3)` Sending spam or mass reporting.
+> `8.4)` Taking things out of appropriate context to make people look bad.
 
 **__Notes:__**
 > **Rules**
@@ -76,23 +78,31 @@ If you do anything that is stated below, action will be taken.
 > Webhooks are not the same as bots despite looking very similar. Please be mindful of this. <@466378653216014359> and <@559426966151757824> use webhooks for various reasons.
 ==----==
 > **Bot: <@466378653216014359>**
-> <@466378653216014359> was added to the server for people who have plural systems to express themselves, not as a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
+> <@466378653216014359> was added to the server for people who have a plural systems to express themselves.
+> 
+> Discriminatory/Offensive use:
+> This bot is not a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
+> 
 > Think of it like a wheelchair. Sure it can be fun to use and stuff but what about those that have to forever use it and suffer? Wouldn't you having fun with a tool to help them be offensive as you're mocking their disability?
 > The reason why we are so heavy on it is because people already misused it and offended people. Or used to cause confusion. And the people who are misusing it are usually unknowingly mocking people who need it to express themself and their mental health correctly.
+> 
 > Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.
-> You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Sophia`.
+> You can learn more about [Plurality](todo) and [Dissociative Disorders](todo) by clicking the respective links.
+> 
+> Adding a system tag:
+> You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.
 ==----==
 > **Bot: <@559426966151757824>**
 > <@559426966151757824> (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.
+> Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
 > 
+> Basic tutorial:
 > Use `!alias` to get started. This will bring up a list of commands.
 > To get a list of your current aliases, run `!alias list` or `!alias dm`.
 > To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).
 > A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.
 > 
 > To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive. The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.
-> 
-> Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
 ==----==
 > **Bot: <@575252669443211264>**
 > You can use <@575252669443211264> to send reports of other users discretely.
@@ -101,6 +111,8 @@ If you do anything that is stated below, action will be taken.
 > DM the bot with the report and follow it's instructions.
 > You will need to verify it and allow it access to your account.
 > Multiple servers use this bot, so make sure to select "Europa's Server" from the dialogue. Use reactions to navigate.
+> 
+> Notes:
 > All moderators can see and respond but it is hidden to normal users.
-> Do not misuse or spam it or action will be taken.
-> Misuse counts as spam, reporting false information, editing information before sending, or otherwise being disingenuous with your report.
+> Do not misuse or action will be taken.
+> Misuse counts as spamming, reporting false information, editing information before sending, or otherwise being disingenuous with your report.
