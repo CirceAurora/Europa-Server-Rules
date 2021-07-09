@@ -15,7 +15,7 @@ If you do anything that is stated below, action will be taken.
 > `1.5)` Using old rules. Rules will be updated in <#835491648246906880> with all changes stated and are effective immediately.
 ==----==
 > `2)  ` **User Rules**
-> `2.1)` Non-mentionable username and nickname.**²**
+> `2.1)` Non-mentionable username and nickname.
 > `2.2)` Completely transparent profile picture.**¹**
 > `2.3)` Full or partial impersonation. Discord Bots and Users, YouTubers, real people, etc. are included.
 > `2.4)` Using alternate accounts (Alts). All Alts will be banned.**²**
