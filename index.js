@@ -24,7 +24,12 @@ async function main() {
     const datetime = moment.utc().format("dddd, MMMM Do YYYY, hh:mm:ss UTC")
 
     console.log("Reading rules...")
-    const rules = fs.readFileSync("rules.txt", "utf8").split("==----==")
+    const rules = fs.readFileSync("rules.txt", "utf8").split("==----==").map(section => section.trim())
+
+    console.log("Validing rules sections length...")
+    if (rules.some(section => section.length > 2000)) {
+        throw new Error("A section of the rules is larger than 2000 characters")
+    }
 
     console.log("Fetching profile...")
     const profile = (await fetch("https://api.pluralkit.me/v1/s/omtxn/members").then(res => res.json())).find(profile => profile.id === "jdhjm")
@@ -41,15 +46,15 @@ async function main() {
     }
 
     i = 0
-    for (const message of rules) {
-        console.log(`Sending message ${++i} of ${rules.length}...`)
-        if (message === "") continue
+    for (const section of rules) {
+        console.log(`Sending rules section ${++i} of ${rules.length}...`)
+        if (section === "") continue
 
         await fetch(rulesWebhook, {
             method: 'post',
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-                content: message.replaceAll("{date}", datetime),
+                content: section.replaceAll("{date}", datetime),
                 username: profile.name,
                 avatar_url: profile.avatar_url,
                 allowed_mentions: { "parse": [] }
