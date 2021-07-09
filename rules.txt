@@ -103,3 +103,4 @@ If you do anything that is stated below, action will be taken.
 > Multiple servers use this bot, so make sure to select "Europa's Server" from the dialogue. Use reactions to navigate.
 > All moderators can see and respond but it is hidden to normal users.
 > Do not misuse or spam it or action will be taken.
+> Misuse counts as spam, reporting false information, editing information before sending, or otherwise being disingenuous with your report.
