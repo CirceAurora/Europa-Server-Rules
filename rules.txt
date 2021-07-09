@@ -57,8 +57,9 @@ If you do anything that is stated below, action will be taken.
 > `7.3)` No system tag. This is to help understand what account the message came from.
 ==----==
 > `8)  ` **Using <@575252669443211264>** - Send complaints privately to all moderators
-> `8.1)` Usage for non-urgent matters.
-> `8.2)` False information.
+> `8.1)` Usage for non-urgent matters/spam.
+> `8.2)` False and edited information.
+> `8.3)` Taking things out of appropriate context to make people look bad.
 
 **__Notes:__**
 > **Rules**
@@ -76,6 +77,9 @@ If you do anything that is stated below, action will be taken.
 ==----==
 > **Bot: <@466378653216014359>**
 > <@466378653216014359> was added to the server for people who have plural systems to express themselves, not as a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
+> Think of it like a wheelchair. Sure it can be fun to use and stuff but what about those that have to forever use it and suffer? Wouldn't you having fun with a tool to help them be offensive as you're mocking their disability?
+> The reason why we are so heavy on it is because people already misused it and offended people. Or used to cause confusion. And the people who are misusing it are usually unknowingly mocking people who need it to express themself and their mental health correctly.
+> Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.
 > You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Sophia`.
 ==----==
 > **Bot: <@559426966151757824>**
@@ -93,6 +97,9 @@ If you do anything that is stated below, action will be taken.
 > **Bot: <@575252669443211264>**
 > You can use <@575252669443211264> to send reports of other users discretely.
 > 
-> To send a report, DM the bot with the report and follow it's instructions.
+> To send a report:
+> DM the bot with the report and follow it's instructions.
+> You will need to verify it and allow it access to your account.
+> Multiple servers use this bot, so make sure to select "Europa's Server" from the dialogue. Use reactions to navigate.
 > All moderators can see and respond but it is hidden to normal users.
 > Do not misuse or spam it or action will be taken.
