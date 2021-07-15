@@ -5,7 +5,7 @@ on:
     branches:
     - main
     paths:
-    - rules.template.txt
+    - .scripts/rules.in.md
 
 jobs:
   update-and-commit:
@@ -22,6 +22,6 @@ jobs:
       - run: npm run update
       - uses: EndBug/add-and-commit@v7
         with:
-          add: 'rules.txt'
-          message: 'Updated rules.txt'
+          add: 'rules.md .scripts/rules.out.md'
+          message: 'Updated rules.md and .scripts/rules.out.md'
           default_author: github_actions

@@ -5,7 +5,7 @@ on:
     branches:
     - main
     paths:
-    - rules.txt
+    - .scripts/rules.out.md
 
 jobs:
   notify-users:

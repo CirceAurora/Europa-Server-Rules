@@ -6,7 +6,35 @@ const tokens = new Map();
 const sectionStart = 1;
 const subsectionStart = 1;
 
-tokens.set('{date}', moment.utc().format('dddd, MMMM Do YYYY, hh:mm:ss UTC'));
+tokens.set('¹', '**¹**');
+tokens.set('²', '**²**');
+tokens.set('³', '**³**');
+tokens.set('[date]', moment.utc().format('dddd, MMMM Do YYYY, hh:mm:ss UTC'));
+
+tokens.set('{#rules}', '<#833335772614492200>');
+tokens.set('{#announcements}', '<#835491648246906880>');
+tokens.set('{#general}', '<#833337196463128596>');
+tokens.set('{#suggestions}', '<#840082092750667777>');
+tokens.set('{#bot-chat}', '<#833337845288665139>');
+tokens.set('{#music-bot}', '<#833340606767300618>');
+tokens.set('{#your-stuff}', '<#833392540974710795>');
+tokens.set('{#pluralkit-configure}', '<#833340626351292477>');
+
+tokens.set('{@Family}', '<@&835268804149379154>');
+tokens.set('{@Staff}', '');
+
+tokens.set('{@Europa}', '<@539609203732643850>');
+tokens.set('{@Sophia}', '<@628611398108315696>');
+
+tokens.set('{@PluralKit}', '<@466378653216014359>');
+tokens.set('{@NQN}', '<@559426966151757824>');
+tokens.set('{@ModMail}', '<@575252669443211264>');
+
+tokens.set('{ToS}', '[ToS](<https://discord.com/terms>)');
+tokens.set('{Guidelines}', '[Guidelines](<https://discord.com/guidelines>)');
+tokens.set('{GitHub Repository}', '[GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>)');
+tokens.set('{Plurality}', '[Plurality](<https://pluralityresource.org/plurality-information/>)');
+tokens.set('{Dissociative Disorders}', '[Dissociative Disorders](todo)');
 
 function insertNumbers(lines) {
     const prefixes = [];
@@ -41,14 +69,29 @@ function insertNumbers(lines) {
 }
 
 async function main() {
-    const lines = fs.readFileSync('../rules.template.txt', 'utf-8')
-        .split('\n')
+    const lines = insertNumbers(fs.readFileSync('rules.in.md', 'utf-8').split('\n'))
         .map(line => {
-            tokens.forEach((replace, search) => line = line.replaceAll(search, replace));
-            return line;
+            let newLine = line;
+            tokens.forEach((replace, search) => {
+                if (!search.startsWith('{') && !search.endsWith('}')) {
+                    newLine = newLine.replaceAll(search, replace);
+                }
+            });
+            return newLine;
         });
+    
+    fs.writeFileSync('../rules.md', lines.join('\n').replaceAll(/[{}]/g, ''));
 
-    fs.writeFileSync('../rules.txt', insertNumbers(lines).join('\n'));
+    fs.writeFileSync('rules.out.md', lines.map(line => {
+        let newLine = line;
+        tokens.forEach((replace, search) => {
+            if (search.startsWith('{') && search.endsWith('}')) {
+                newLine = newLine.replaceAll(search, replace);
+            }
+        });
+        return newLine;
+    })
+        .join('\n'));
 }
 
 main().catch((e) => {
