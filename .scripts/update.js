@@ -67,7 +67,7 @@ function insertNumbers(lines) {
 }
 
 async function main() {
-    const lines = insertNumbers(fs.readFileSync('rules.in.md', 'utf-8').split('\n'))
+    const lines = insertNumbers(fs.readFileSync('rules.in.txt', 'utf-8').split('\n'))
         .map(line => {
             let newLine = line;
             tokens.forEach((replace, search) => {
@@ -87,7 +87,7 @@ async function main() {
         return line;
     }).join('\n').replaceAll(/[{}]/g, '').replaceAll(/^> /mg, ''));
 
-    fs.writeFileSync('rules.out.md', lines.map(line => {
+    fs.writeFileSync('rules.out.txt', lines.map(line => {
         let newLine = line;
         tokens.forEach((replace, search) => {
             if (typeof search === 'string' && search.startsWith('{') && search.endsWith('}')) {
