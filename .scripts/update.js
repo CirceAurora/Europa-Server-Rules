@@ -80,7 +80,12 @@ async function main() {
             return newLine + '  ';
         });
     
-    fs.writeFileSync('../rules.md', lines.join('\n').replaceAll(/[{}]/g, ''));
+    fs.writeFileSync('../rules.md', lines.map(line => {
+        if (line === '==----==  ' || line == '  ') {
+            return '';
+        }
+        return line;
+    }).join('\n').replaceAll(/[{}]/g, ''));
 
     fs.writeFileSync('rules.out.md', lines.map(line => {
         let newLine = line;
