@@ -49,7 +49,7 @@ x.y) Sending a Discord invite link.
 x.y) Posting unacceptable type or subject of advertisement. Read the topic of {#your-stuff} for more information.
 x.y) Sending advertisements in DMs.
 ==----==
-x)   **Breaking Discord {ToS} and {Guidelines}**
+x)   **Breaking Discord [ToS] and [Guidelines]**
 x.y) Being underage. Be 13 or older. People found to be underage will be reported and banned.
 x.y) Requesting or posting links to pirated software, including abandonware.
 x.y) Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.
@@ -70,7 +70,7 @@ x.y) Taking things out of appropriate context. Don't make people look bad to get
 
 **__Notes:__**
 > **Rules**
-> The rules can and will change. You can make suggestions at {#suggestions} or on the {GitHub Repository}.
+> The rules can and will change. You can make suggestions at {#suggestions} or on the [GitHub Repository].
 > Changes are automatically made and an announcement will be made.
 > Breaking most rules will only result in a verbal warning unless repeated. However, some rules are enforced more heavily than others. Breaking them will result in a harsher punishment.
 > If you are not sure if your content will break the rules, either don't share it or ask a moderator beforehand.
@@ -92,7 +92,7 @@ x.y) Taking things out of appropriate context. Don't make people look bad to get
 > The reason why we are so heavy on it is because people already misused it and offended people. Or used to cause confusion. And the people who are misusing it are usually unknowingly mocking people who need it to express themself and their mental health correctly.
 > 
 > Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.
-> You can learn more about {Plurality} and {Dissociative Disorders} by clicking the respective links.
+> You can learn more about [Plurality] and [Dissociative Disorders] by clicking the respective links.
 > 
 > Adding a system tag:
 > You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.

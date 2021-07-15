@@ -28,11 +28,11 @@ tokens.set('{@PluralKit}', '<@466378653216014359>');
 tokens.set('{@NQN}', '<@559426966151757824>');
 tokens.set('{@ModMail}', '<@575252669443211264>');
 
-tokens.set('{ToS}', '[ToS](<https://discord.com/terms>)');
-tokens.set('{Guidelines}', '[Guidelines](<https://discord.com/guidelines>)');
-tokens.set('{GitHub Repository}', '[GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>)');
-tokens.set('{Plurality}', '[Plurality](<https://pluralityresource.org/plurality-information/>)');
-tokens.set('{Dissociative Disorders}', '[Dissociative Disorders](todo)');
+tokens.set('[ToS]', '[ToS](<https://discord.com/terms>)');
+tokens.set('[Guidelines]', '[Guidelines](<https://discord.com/guidelines>)');
+tokens.set('[GitHub Repository]', '[GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>)');
+tokens.set('[Plurality]', '[Plurality](<https://pluralityresource.org/plurality-information/>)');
+tokens.set('[Dissociative Disorders]', '[Dissociative Disorders](todo)');
 
 function insertNumbers(lines) {
     const prefixes = [];
@@ -85,7 +85,7 @@ async function main() {
             return '';
         }
         return line;
-    }).join('\n').replaceAll(/[{}]/g, ''));
+    }).join('\n').replaceAll(/[{}]/g, '').replaceAll(/^> /mg, ''));
 
     fs.writeFileSync('rules.out.md', lines.map(line => {
         let newLine = line;
