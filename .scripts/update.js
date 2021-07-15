@@ -77,7 +77,7 @@ async function main() {
                     newLine = newLine.replaceAll(search, replace);
                 }
             });
-            return newLine;
+            return newLine + '  ';
         });
     
     fs.writeFileSync('../rules.md', lines.join('\n').replaceAll(/[{}]/g, ''));
@@ -85,15 +85,12 @@ async function main() {
     fs.writeFileSync('rules.out.md', lines.map(line => {
         let newLine = line;
         tokens.forEach((replace, search) => {
-            if (typeof search !== 'string') {
-                newLine = newLine.replaceAll(search, replace);
-            } else if (search.startsWith('{') && search.endsWith('}')) {
+            if (typeof search === 'string' && search.startsWith('{') && search.endsWith('}')) {
                 newLine = newLine.replaceAll(search, replace);
             }
         });
-        return newLine;
-    })
-        .join('\n'));
+        return newLine.trim();
+    }).join('\n'));
 }
 
 main().catch((e) => {
