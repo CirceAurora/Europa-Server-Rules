@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  },
+  "scripts": {
+    "eslint": "./node_modules/.bin/eslint --fix *.js",
+    "update": "node update.js",
+    "notify": "node notify.js"
+  }
+}
