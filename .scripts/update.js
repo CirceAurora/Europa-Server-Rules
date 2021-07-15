@@ -6,9 +6,7 @@ const tokens = new Map();
 const sectionStart = 1;
 const subsectionStart = 1;
 
-tokens.set('¹', '**¹**');
-tokens.set('²', '**²**');
-tokens.set('³', '**³**');
+tokens.set(/([⁰¹²³⁴-⁹₀-₉]+)/g, '**$1**');
 tokens.set('[date]', moment.utc().format('dddd, MMMM Do YYYY, hh:mm:ss UTC'));
 
 tokens.set('{#rules}', '<#833335772614492200>');
@@ -73,7 +71,9 @@ async function main() {
         .map(line => {
             let newLine = line;
             tokens.forEach((replace, search) => {
-                if (!search.startsWith('{') && !search.endsWith('}')) {
+                if (typeof search !== 'string') {
+                    newLine = newLine.replaceAll(search, replace);
+                } else if (!search.startsWith('{') && !search.endsWith('}')) {
                     newLine = newLine.replaceAll(search, replace);
                 }
             });
@@ -85,7 +85,9 @@ async function main() {
     fs.writeFileSync('rules.out.md', lines.map(line => {
         let newLine = line;
         tokens.forEach((replace, search) => {
-            if (search.startsWith('{') && search.endsWith('}')) {
+            if (typeof search !== 'string') {
+                newLine = newLine.replaceAll(search, replace);
+            } else if (search.startsWith('{') && search.endsWith('}')) {
                 newLine = newLine.replaceAll(search, replace);
             }
         });
