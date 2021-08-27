@@ -19,6 +19,7 @@ If you do anything that is stated below, action will be taken.
 `2.3)` Setting a completely transparent profile picture.**¹**  
 `2.4)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
 `2.5)` Using alternate accounts . All alternate accounts will be banned.**²**  
+`2.6)` If you are banned from the Twitch channel, you will be banned from here and vice versa.
 
 `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.  
 `3.1)` Causing drama or bringing in drama. This is a safe place for everyone!  
