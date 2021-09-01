@@ -32,7 +32,7 @@ tokens.set('[ToS]', '[ToS](<https://discord.com/terms>)');
 tokens.set('[Guidelines]', '[Guidelines](<https://discord.com/guidelines>)');
 tokens.set('[GitHub Repository]', '[GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>)');
 tokens.set('[Plurality]', '[Plurality](<https://pluralityresource.org/plurality-information/>)');
-tokens.set('[Dissociative Disorders]', '[Dissociative Disorders](todo)');
+tokens.set('[Dissociative Disorders]', '[Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>)');
 
 function insertNumbers(lines) {
     const prefixes = [];
@@ -79,7 +79,7 @@ async function main() {
             });
             return newLine + '  ';
         });
-    
+
     fs.writeFileSync('../rules.md', lines.map(line => {
         if (line === '==----==  ' || line == '  ') {
             return '';
