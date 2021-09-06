@@ -1,5 +1,5 @@
 **__Rules__:**  
-**Last updated:** Monday, September 6th 2021, 02:46:35 UTC  
+**Last updated:** Monday, September 6th 2021, 02:49:31 UTC  
 **¹** This is to be determined at moderator's discretion.  
 **²** Applies to regular members only for moderation purposes. @Family and @Staff are excluded.  
 **³** Related to the conversation is acceptable.  
