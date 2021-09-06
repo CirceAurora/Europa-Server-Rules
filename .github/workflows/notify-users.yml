@@ -1,0 +1,29 @@
+name: Notify Users
+
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - .scripts/rules.out.txt
+
+jobs:
+  notify-users:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .scripts
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - run: npm ci
+      - run: npm run notify
+        env:
+          NAME: ${{ secrets.NAME }}
+          TOKEN: ${{ secrets.TOKEN }}
+          AVATAR: ${{ secrets.AVATAR }}
+          RULES_CHANNEL: ${{ secrets.RULES_CHANNEL }}
+          RULES_WEBHOOK: ${{ secrets.RULES_WEBHOOK }}
+          ANNOUNCEMENT_WEBHOOK: ${{ secrets.ANNOUNCEMENT_WEBHOOK }}
