@@ -3,9 +3,9 @@ name: Update Rules
 on:
   pull_request:
     branches:
-    - main
+      - main
     paths:
-    - .scripts/rules.in.txt
+      - .scripts/rules.in.txt
 
 jobs:
   update-and-commit:

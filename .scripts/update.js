@@ -33,6 +33,7 @@ tokens.set('[Guidelines]', '[Guidelines](<https://discord.com/guidelines>)');
 tokens.set('[GitHub Repository]', '[GitHub Repository](<https://github.com/SophiaFoxyCoxy/Europa-Server-Rules>)');
 tokens.set('[Plurality]', '[Plurality](<https://pluralityresource.org/plurality-information/>)');
 tokens.set('[Dissociative Disorders]', '[Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>)');
+tokens.set('[PluralKit Guide]', '[PluralKit Guide](<https://pluralkit.me/start/>)');
 
 function insertNumbers(lines) {
     const prefixes = [];
@@ -88,13 +89,18 @@ async function main() {
     }).join('\n').replaceAll(/[{}]/g, '').replaceAll(/^> /mg, ''));
 
     fs.writeFileSync('rules.out.txt', lines.map(line => {
+        if (/^> *$/.test(line)) {
+            return '> ';
+        }
+
         let newLine = line;
         tokens.forEach((replace, search) => {
             if (typeof search === 'string' && search.startsWith('{') && search.endsWith('}')) {
                 newLine = newLine.replaceAll(search, replace);
             }
         });
-        return newLine.trim();
+
+        return line.trim();
     }).join('\n'));
 }
 

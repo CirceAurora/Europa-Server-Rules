@@ -3,9 +3,9 @@ name: Notify Users
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-    - .scripts/rules.out.txt
+      - .scripts/rules.out.txt
 
 jobs:
   notify-users:
