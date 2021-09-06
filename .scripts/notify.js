@@ -31,7 +31,7 @@ function request(url, data) {
 
 async function main() {
     console.log('Reading rules...');
-    const sections = fs.readFileSync('rules.out.md', 'utf8').split('==----==');
+    const sections = fs.readFileSync('rules.out.txt', 'utf8').split('==----==');
 
     console.log('Fetching messages...');
     const headers = { Authorization: `Bot ${token}` };
