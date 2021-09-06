@@ -1,5 +1,5 @@
 **__Rules__:**  
-**Last updated:** Thursday, September 01 2021, 18:27:00 UTC  
+**Last updated:** Monday, September 6th 2021, 01:16:10 UTC  
 **¹** This is to be determined at moderator's discretion.  
 **²** Applies to regular members only for moderation purposes. @Family and @Staff are excluded.  
 **³** Related to the conversation is acceptable.  
@@ -15,11 +15,11 @@ If you do anything that is stated below, action will be taken.
 
 `2)  ` **User Rules**  
 `2.1)` Having non-mentionable username and nickname. This is so moderators can alert you.  
-`2.2)` Abusing unicode to have a blank or esoteric username and nickname.  
+`2.2)` Abusing Unicode to have a blank or esoteric username and nickname.  
 `2.3)` Setting a completely transparent profile picture.**¹**  
 `2.4)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
-`2.5)` Using alternate accounts . All alternate accounts will be banned.**²**  
-`2.6)` If you are banned from the Twitch channel, you will be banned from here and vice versa.
+`2.5)` Using alternate accounts. All alternate accounts will be banned.**²**  
+`2.6)` If you are banned from the Twitch channel, you will be banned from here and vice versa.  
 
 `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.  
 `3.1)` Causing drama or bringing in drama. This is a safe place for everyone!  
@@ -55,13 +55,13 @@ If you do anything that is stated below, action will be taken.
 `7.2)` Requesting or posting links to pirated software, including abandonware.  
 `7.3)` Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.  
 `7.4)` Posting of graphic or NSFW content. This is against ToS and this is a PG-13 server.  
-`7.5)` Sending risque or sexually suggestive content.**¹**  
+`7.5)` Sending risqué or sexually suggestive content.**¹**  
 `7.6)` Sharing illegal content.  
 
 `8)  ` **Misusing @PluralKit** - All rules still apply  
 `8.1)` Using it without a plural system. If you don't know what it is, please read the notes.  
 `8.2)` Sending commands in a channel that isn't #pluralkit-configure.**³**  
-`8.3)` Having no system tag. This is to help understand what account the message came from.  
+`8.3)` Having no system or server tag. This is to help understand what account the message came from.  
 
 `9)  ` **Misusing @ModMail** - Send complaints privately to all moderators  
 `9.1)` Using for non-urgent matters. We have #general for basic questions.  
@@ -85,40 +85,40 @@ Webhooks are not the same as bots despite looking very similar. Please be mindfu
 
 **Bot: @PluralKit**  
 @PluralKit was added to the server for people who have a plural systems to express themselves.  
-  
+ 
 Discriminatory/Offensive use:  
 This bot is not a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.  
-  
-Think of it like a wheelchair. Sure it can be fun to use and stuff but what about those that have to forever use it and suffer? Wouldn't you having fun with a tool to help them be offensive as you're mocking their disability?  
-The reason why we are so heavy on it is because people already misused it and offended people. Or used to cause confusion. And the people who are misusing it are usually unknowingly mocking people who need it to express themself and their mental health correctly.  
-  
+ 
 Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.  
-You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>) and [Dissociative Disorders](todo) by clicking the respective links.  
-  
-Adding a system tag:  
+You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>), and [Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>) by clicking the respective links.  
+ 
+Adding a system tag (global):  
 You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.  
+ 
+Adding a server tag:  
+You can add a server tag via the `pk;system servertag` command. Example: `pk;system servertag | Crice`.  
 
 **Bot: @NQN**  
 @NQN (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.  
 Please only use NQN commands in #bot-chat or in a DM with the bot.  
-  
+ 
 Basic tutorial:  
 Use `!alias` to get started. This will bring up a list of commands.  
 To get a list of your current aliases, run `!alias list` or `!alias dm`.  
 To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).  
 A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.  
-  
+ 
 To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive.  
 The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.  
 
 **Bot: @ModMail**  
 You can use @ModMail to send reports of other users discretely.  
-  
+ 
 To send a report:  
 DM the bot with the report and follow it's instructions.  
 You will need to verify it and allow it access to your account.  
 Multiple servers use this bot, so make sure to select `Europa's Server` from the dialogue. Use reactions to navigate.  
-  
+ 
 Notes:  
 All moderators can see and respond but it is hidden to normal users.  
 Do not misuse or action will be taken.  
