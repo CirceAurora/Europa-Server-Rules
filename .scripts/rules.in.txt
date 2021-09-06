@@ -93,10 +93,15 @@ x.y) Taking things out of appropriate context. Don't make people look bad to get
 > You can learn more about [Plurality], and [Dissociative Disorders] by clicking the respective links.
 >
 > Adding a system tag (global):
-> You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.
 >
 > Adding a server tag:
-> You can add a server tag via the `pk;system servertag` command. Example: `pk;system servertag | Crice`.
+>
+> Basic tutorial:
+> Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.
+> You can reply to a message and use `pk;edit` to edit a message.
+> Reacting with a ❌ will delete the message.
+>
+> You can read the [PluralKit Guide] with the previous link.
 ==----==
 > **Bot: {@NQN}**
 > {@NQN} (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.

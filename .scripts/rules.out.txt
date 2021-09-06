@@ -1,5 +1,5 @@
 **__Rules__:**
-**Last updated:** Monday, September 6th 2021, 01:51:29 UTC
+**Last updated:** Monday, September 6th 2021, 02:49:31 UTC
 **¹** This is to be determined at moderator's discretion.
 **²** Applies to regular members only for moderation purposes. <@&835268804149379154> and  are excluded.
 **³** Related to the conversation is acceptable.
@@ -85,40 +85,45 @@ If you do anything that is stated below, action will be taken.
 ==----==
 > **Bot: <@466378653216014359>**
 > <@466378653216014359> was added to the server for people who have a plural systems to express themselves.
->
+> 
 > Discriminatory/Offensive use:
 > This bot is not a toy to be played around with and abused. This is not the place for that. Any abuse of the bot will result in an official disciplinary action.
->
+> 
 > Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.
 > You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>), and [Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>) by clicking the respective links.
->
+> 
 > Adding a system tag (global):
-> You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.
->
+> 
 > Adding a server tag:
-> You can add a server tag via the `pk;system servertag` command. Example: `pk;system servertag | Crice`.
+> 
+> Basic tutorial:
+> Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.
+> You can reply to a message and use `pk;edit` to edit a message.
+> Reacting with a ❌ will delete the message.
+> 
+> You can read the [PluralKit Guide](<https://pluralkit.me/start/>) with the previous link.
 ==----==
 > **Bot: <@559426966151757824>**
 > <@559426966151757824> (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.
 > Please only use NQN commands in <#833337845288665139> or in a DM with the bot.
->
+> 
 > Basic tutorial:
 > Use `!alias` to get started. This will bring up a list of commands.
 > To get a list of your current aliases, run `!alias list` or `!alias dm`.
 > To search for an alias, use `!alias search` followed by the search term (so `!alias search Amber` for example).
 > A menu will pop up with a list of choices. Use the reactions to navigate and select aliases to make.
->
+> 
 > To use an emote, type it in as you would any emote, making sure to use its full name (`:amberpat:` for example). This is case-sensitive.
 > The bot will replace your message with one from a webhook. This means your message will disappear and what appears to be a bot message will replace it.
 ==----==
 > **Bot: <@575252669443211264>**
 > You can use <@575252669443211264> to send reports of other users discretely.
->
+> 
 > To send a report:
 > DM the bot with the report and follow it's instructions.
 > You will need to verify it and allow it access to your account.
 > Multiple servers use this bot, so make sure to select `Europa's Server` from the dialogue. Use reactions to navigate.
->
+> 
 > Notes:
 > All moderators can see and respond but it is hidden to normal users.
 > Do not misuse or action will be taken.

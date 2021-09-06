@@ -1,5 +1,5 @@
 **__Rules__:**  
-**Last updated:** Monday, September 6th 2021, 01:51:29 UTC  
+**Last updated:** Monday, September 6th 2021, 02:49:31 UTC  
 **¹** This is to be determined at moderator's discretion.  
 **²** Applies to regular members only for moderation purposes. @Family and @Staff are excluded.  
 **³** Related to the conversation is acceptable.  
@@ -93,10 +93,15 @@ Misuse of this bot can be considered as discrimination, akin to transphobia or s
 You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>), and [Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>) by clicking the respective links.  
  
 Adding a system tag (global):  
-You can add a system tag via the `pk;system tag` command. Example: `pk;system tag | Crice`.  
  
 Adding a server tag:  
-You can add a server tag via the `pk;system servertag` command. Example: `pk;system servertag | Crice`.  
+ 
+Basic tutorial:  
+Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.  
+You can reply to a message and use `pk;edit` to edit a message.  
+Reacting with a ❌ will delete the message.  
+ 
+You can read the [PluralKit Guide](<https://pluralkit.me/start/>) with the previous link.  
 
 **Bot: @NQN**  
 @NQN (Not Quite Nitro) is used to allow people to use external emotes even if they don't have Nitro.  
