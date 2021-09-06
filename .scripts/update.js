@@ -100,7 +100,7 @@ async function main() {
             }
         });
 
-        return line.trim();
+        return newLine.trim();
     }).join('\n'));
 }
 
