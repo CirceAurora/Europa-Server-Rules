@@ -1,7 +1,7 @@
 **__Rules__:**  
-**Last updated:** Sunday, May 1st 2022, 04:51:58 UTC  
+**Last updated:** Sunday, May 1st 2022, 03:50:50 UTC  
 **¹** This is to be determined at moderator's discretion.  
-**²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privelege.  
+**²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.  
 **³** Related to the conversation is acceptable.  
 
 The rules below make more sense if read with a warning attached. Such as "?warn @Sophia Rule 1.1"  
@@ -65,7 +65,7 @@ If you do anything that is stated below, action will be taken.
 `9)  ` **Misusing @ModMail** - Send complaints privately to all moderators  
 `9.1)` Using for non-urgent matters. We have #general for basic questions.  
 `9.2)` Sending spam or mass reporting. This slows us down so please don't!  
-`9.3)` Reporting with false or edited information. Personal vendetta is a good reason to report someone.  
+`9.3)` Reporting with false or edited information. Personal vendetta is not a good reason to report someone.  
 `9.4)` Taking things out of appropriate context. Don't make people look bad to get them banned.  
 
 **__Notes:__**  
@@ -91,12 +91,10 @@ This bot is not a toy to be played around with and abused. This is not the place
 Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.  
 You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>), and [Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>) by clicking the respective links.  
  
-Adding a system tag (global):  
- 
-Adding a server tag:  
+Adding a system tag (global) or server tag:  
+Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.  
  
 Basic tutorial:  
-Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.  
 You can reply to a message and use `pk;edit` to edit a message.  
 Reacting with a ❌ will delete the message.  
  
