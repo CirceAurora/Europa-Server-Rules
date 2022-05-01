@@ -1,7 +1,7 @@
 **__Rules__:**
 **Last updated:** [date]
 ¹ This is to be determined at moderator's discretion.
-² Applies to regular members only for moderation purposes. {@Family} and {@Staff} are excluded.
+² Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privelege.
 ³ Related to the conversation is acceptable.
 
 The rules below make more sense if read with a warning attached. Such as "?warn {@Sophia} Rule 1.1"
@@ -41,7 +41,6 @@ x)   **Channel Rules** - Let's keep things neat
 x.y) Misusing channels. Read channel topics for an idea of what they're used for.¹
 x.y) Posting excessive amounts of pictures in general chat.
 x.y) Using bot commands in the incorrect channel. Use the bots in {#bot-chat}.³
-x.y) Sending music bot commands outside of {#music-bot}.
 x.y) Posting user created content outside of {#your-stuff}.³
 ==----==
 x)   **Sending Advertising** - Support your peers

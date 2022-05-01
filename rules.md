@@ -1,7 +1,7 @@
 **__Rules__:**  
-**Last updated:** Monday, September 6th 2021, 02:49:31 UTC  
+**Last updated:** Sunday, May 1st 2022, 04:51:58 UTC  
 **¹** This is to be determined at moderator's discretion.  
-**²** Applies to regular members only for moderation purposes. @Family and @Staff are excluded.  
+**²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privelege.  
 **³** Related to the conversation is acceptable.  
 
 The rules below make more sense if read with a warning attached. Such as "?warn @Sophia Rule 1.1"  
@@ -41,8 +41,7 @@ If you do anything that is stated below, action will be taken.
 `5.1)` Misusing channels. Read channel topics for an idea of what they're used for.**¹**  
 `5.2)` Posting excessive amounts of pictures in general chat.  
 `5.3)` Using bot commands in the incorrect channel. Use the bots in #bot-chat.**³**  
-`5.4)` Sending music bot commands outside of #music-bot.  
-`5.5)` Posting user created content outside of #your-stuff.**³**  
+`5.4)` Posting user created content outside of #your-stuff.**³**  
 
 `6)  ` **Sending Advertising** - Support your peers  
 `6.1)` Advertising in any other channel but #your-stuff.  
