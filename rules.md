@@ -1,5 +1,5 @@
 **__Rules__:**  
-**Last updated:** Sunday, May 1st 2022, 03:50:50 UTC  
+**Last updated:** Tuesday, May 10th 2022, 11:05:12 UTC  
 **¹** This is to be determined at moderator's discretion.  
 **²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.  
 **³** Related to the conversation is acceptable.  
@@ -23,7 +23,7 @@ If you do anything that is stated below, action will be taken.
 
 `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.  
 `3.1)` Causing drama or bringing in drama. This is a safe place for everyone!  
-`3.2)` Not using English. Sorry, but the moderators and most users can only understand English.  
+`3.2)` Not using Modern English. Sorry, but the moderators and most users can only understand Modern English (no Middle or Old English).  
 `3.3)` Spamming. Copypasta is included!**¹**  
 `3.4)` Causing discomfort. This includes playing high pitch sounds in VC!  
 `3.5)` Trolling. It's stressful and isn't fun.  
