@@ -1,5 +1,5 @@
 **__Rules__:**
-**Last updated:** Tuesday, May 10th 2022, 11:05:12 UTC
+**Last updated:** Wednesday, May 11th 2022, 04:29:52 UTC
 **¹** This is to be determined at moderator's discretion.
 **²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.
 **³** Related to the conversation is acceptable.
@@ -49,24 +49,31 @@ If you do anything that is stated below, action will be taken.
 > `6.3)` Posting unacceptable type or subject of advertisement. Read the topic of <#833392540974710795> for more information.
 > `6.4)` Sending advertisements in DMs.
 ==----==
-> `7)  ` **Breaking Discord [ToS](<https://discord.com/terms>) and [Guidelines](<https://discord.com/guidelines>)**
-> `7.1)` Being underage. Be 13 or older. People found to be underage will be reported and banned.
-> `7.2)` Requesting or posting links to pirated software, including abandonware.
-> `7.3)` Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.
-> `7.4)` Posting of graphic or NSFW content. This is against ToS and this is a PG-13 server.
-> `7.5)` Sending risqué or sexually suggestive content.**¹**
-> `7.6)` Sharing illegal content.
+> `7)  ` **Minecraft Server Rules** - Promoting a fun play environment
+> `7.1)` All Discord server rules apply.
+> `7.2)` A ban on Discord results in a ban in Minecraft and vice versa.
+> `7.3)` Griefing.
+> `7.4)` Construction of hate symbols.
+> `7.5)` Refusal to listen to moderators and admins.
 ==----==
-> `8)  ` **Misusing <@466378653216014359>** - All rules still apply
-> `8.1)` Using it without a plural system. If you don't know what it is, please read the notes.
-> `8.2)` Sending commands in a channel that isn't <#833340626351292477>.**³**
-> `8.3)` Having no system or server tag. This is to help understand what account the message came from.
+> `8)  ` **Breaking Discord [ToS](<https://discord.com/terms>) and [Guidelines](<https://discord.com/guidelines>)**
+> `8.1)` Being underage. Be 13 or older. People found to be underage will be reported and banned.
+> `8.2)` Requesting or posting links to pirated software, including abandonware.
+> `8.3)` Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.
+> `8.4)` Posting of graphic or NSFW content. This is against ToS and this is a PG-13 server.
+> `8.5)` Sending risqué or sexually suggestive content.**¹**
+> `8.6)` Sharing illegal content.
 ==----==
-> `9)  ` **Misusing <@575252669443211264>** - Send complaints privately to all moderators
-> `9.1)` Using for non-urgent matters. We have <#833337196463128596> for basic questions.
-> `9.2)` Sending spam or mass reporting. This slows us down so please don't!
-> `9.3)` Reporting with false or edited information. Personal vendetta is not a good reason to report someone.
-> `9.4)` Taking things out of appropriate context. Don't make people look bad to get them banned.
+> `9)  ` **Misusing <@466378653216014359>** - All rules still apply
+> `9.1)` Using it without a plural system. If you don't know what it is, please read the notes.
+> `9.2)` Sending commands in a channel that isn't <#833340626351292477>.**³**
+> `9.3)` Having no system or server tag. This is to help understand what account the message came from.
+==----==
+> `A)  ` **Misusing <@575252669443211264>** - Send complaints privately to all moderators
+> `A.1)` Using for non-urgent matters. We have <#833337196463128596> for basic questions.
+> `A.2)` Sending spam or mass reporting. This slows us down so please don't!
+> `A.3)` Reporting with false or edited information. Personal vendetta is not a good reason to report someone.
+> `A.4)` Taking things out of appropriate context. Don't make people look bad to get them banned.
 
 **__Notes:__**
 > **Rules**
