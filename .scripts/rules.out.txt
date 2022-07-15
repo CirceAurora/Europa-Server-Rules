@@ -1,5 +1,5 @@
 **__Rules__:**
-**Last updated:** Wednesday, May 11th 2022, 04:29:52 UTC
+**Last updated:** Friday, July 15th 2022, 11:33:13 UTC
 **¹** This is to be determined at moderator's discretion.
 **²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.
 **³** Related to the conversation is acceptable.
@@ -34,7 +34,7 @@ If you do anything that is stated below, action will be taken.
 > `4)  ` **Content Rules** - Files, messages, and user profile
 > `4.1)` Practicing discriminatory behaviour. We have a zero-tolerance policy for it and severe action will be taken.
 > `4.2)` Harassing, or being immature or disrespectful. Saying something is a joke is not an excuse.
-> `4.3)` Posting about political, sensitive, triggering, or similar subjects.
+> `4.3)` Posting about sensitive, triggering, or similar subjects.
 > `4.4)` Being passive aggressive. It can lead to heated arguments.
 ==----==
 > `5)  ` **Channel Rules** - Let's keep things neat
