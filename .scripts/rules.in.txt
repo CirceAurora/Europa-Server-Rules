@@ -34,7 +34,7 @@ x.y) Venting. We do not have a designated venting channel for a reason. Please d
 x)   **Content Rules** - Files, messages, and user profile
 x.y) Practicing discriminatory behaviour. We have a zero-tolerance policy for it and severe action will be taken.
 x.y) Harassing, or being immature or disrespectful. Saying something is a joke is not an excuse.
-x.y) Posting about political, sensitive, triggering, or similar subjects.
+x.y) Posting about sensitive, triggering, or similar subjects.
 x.y) Being passive aggressive. It can lead to heated arguments.
 ==----==
 x)   **Channel Rules** - Let's keep things neat
