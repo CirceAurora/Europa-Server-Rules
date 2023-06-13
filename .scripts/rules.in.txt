@@ -1,7 +1,7 @@
 **__Rules__:**
 **Last updated:** [date]
 ¹ This is to be determined at moderator's discretion.
-² Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privelege.
+² Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.
 ³ Related to the conversation is acceptable.
 
 The rules below make more sense if read with a warning attached. Such as "?warn {@Sophia} Rule 1.1"
@@ -14,16 +14,13 @@ x.y) Evading disciplinary measures. Finding an exploit in permissions or using a
 x.y) Using old rules. Rules will be updated in {#announcements} with all changes stated and are effective immediately.
 ==----==
 x)   **User Rules**
-x.y) Having non-mentionable username and nickname. This is so moderators can alert you.
-x.y) Abusing Unicode to have a blank or esoteric username and nickname.
 x.y) Setting a completely transparent profile picture.¹
 x.y) Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.
-x.y) Using alternate accounts. All alternate accounts will be banned.²
 x.y) If you are banned from the Twitch channel, you will be banned from here and vice versa.
 ==----==
 x)   **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.
 x.y) Causing drama or bringing in drama. This is a safe place for everyone!
-x.y) Not using English. Sorry, but the moderators and most users can only understand English.
+x.y) Not using Modern English. Sorry, but the moderators and most users can only understand Modern English (no Middle or Old English).
 x.y) Spamming. Copypasta is included!¹
 x.y) Causing discomfort. This includes playing high pitch sounds in VC!
 x.y) Trolling. It's stressful and isn't fun.
@@ -34,7 +31,7 @@ x.y) Venting. We do not have a designated venting channel for a reason. Please d
 x)   **Content Rules** - Files, messages, and user profile
 x.y) Practicing discriminatory behaviour. We have a zero-tolerance policy for it and severe action will be taken.
 x.y) Harassing, or being immature or disrespectful. Saying something is a joke is not an excuse.
-x.y) Posting about political, sensitive, triggering, or similar subjects.
+x.y) Posting about sensitive, triggering, or similar subjects.
 x.y) Being passive aggressive. It can lead to heated arguments.
 ==----==
 x)   **Channel Rules** - Let's keep things neat
@@ -65,7 +62,7 @@ x.y) Having no system or server tag. This is to help understand what account the
 x)   **Misusing {@ModMail}** - Send complaints privately to all moderators
 x.y) Using for non-urgent matters. We have {#general} for basic questions.
 x.y) Sending spam or mass reporting. This slows us down so please don't!
-x.y) Reporting with false or edited information. Personal vendetta is a good reason to report someone.
+x.y) Reporting with false or edited information. Personal vendetta is not a good reason to report someone.
 x.y) Taking things out of appropriate context. Don't make people look bad to get them banned.
 
 **__Notes:__**
@@ -91,12 +88,10 @@ x.y) Taking things out of appropriate context. Don't make people look bad to get
 > Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.
 > You can learn more about [Plurality], and [Dissociative Disorders] by clicking the respective links.
 >
-> Adding a system tag (global):
->
-> Adding a server tag:
+> Adding a system tag (global) or server tag:
+> Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.
 >
 > Basic tutorial:
-> Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.
 > You can reply to a message and use `pk;edit` to edit a message.
 > Reacting with a ❌ will delete the message.
 >

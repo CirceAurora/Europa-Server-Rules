@@ -1,7 +1,7 @@
 **__Rules__:**  
-**Last updated:** Sunday, May 1st 2022, 04:51:58 UTC  
+**Last updated:** Tuesday, June 13th 2023, 01:21:26 UTC  
 **¹** This is to be determined at moderator's discretion.  
-**²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privelege.  
+**²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.  
 **³** Related to the conversation is acceptable.  
 
 The rules below make more sense if read with a warning attached. Such as "?warn @Sophia Rule 1.1"  
@@ -14,16 +14,13 @@ If you do anything that is stated below, action will be taken.
 `1.4)` Using old rules. Rules will be updated in #announcements with all changes stated and are effective immediately.  
 
 `2)  ` **User Rules**  
-`2.1)` Having non-mentionable username and nickname. This is so moderators can alert you.  
-`2.2)` Abusing Unicode to have a blank or esoteric username and nickname.  
-`2.3)` Setting a completely transparent profile picture.**¹**  
-`2.4)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
-`2.5)` Using alternate accounts. All alternate accounts will be banned.**²**  
-`2.6)` If you are banned from the Twitch channel, you will be banned from here and vice versa.  
+`2.1)` Setting a completely transparent profile picture.**¹**  
+`2.2)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
+`2.3)` If you are banned from the Twitch channel, you will be banned from here and vice versa.  
 
 `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.  
 `3.1)` Causing drama or bringing in drama. This is a safe place for everyone!  
-`3.2)` Not using English. Sorry, but the moderators and most users can only understand English.  
+`3.2)` Not using Modern English. Sorry, but the moderators and most users can only understand Modern English (no Middle or Old English).  
 `3.3)` Spamming. Copypasta is included!**¹**  
 `3.4)` Causing discomfort. This includes playing high pitch sounds in VC!  
 `3.5)` Trolling. It's stressful and isn't fun.  
@@ -34,7 +31,7 @@ If you do anything that is stated below, action will be taken.
 `4)  ` **Content Rules** - Files, messages, and user profile  
 `4.1)` Practicing discriminatory behaviour. We have a zero-tolerance policy for it and severe action will be taken.  
 `4.2)` Harassing, or being immature or disrespectful. Saying something is a joke is not an excuse.  
-`4.3)` Posting about political, sensitive, triggering, or similar subjects.  
+`4.3)` Posting about sensitive, triggering, or similar subjects.  
 `4.4)` Being passive aggressive. It can lead to heated arguments.  
 
 `5)  ` **Channel Rules** - Let's keep things neat  
@@ -49,24 +46,31 @@ If you do anything that is stated below, action will be taken.
 `6.3)` Posting unacceptable type or subject of advertisement. Read the topic of #your-stuff for more information.  
 `6.4)` Sending advertisements in DMs.  
 
-`7)  ` **Breaking Discord [ToS](<https://discord.com/terms>) and [Guidelines](<https://discord.com/guidelines>)**  
-`7.1)` Being underage. Be 13 or older. People found to be underage will be reported and banned.  
-`7.2)` Requesting or posting links to pirated software, including abandonware.  
-`7.3)` Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.  
-`7.4)` Posting of graphic or NSFW content. This is against ToS and this is a PG-13 server.  
-`7.5)` Sending risqué or sexually suggestive content.**¹**  
-`7.6)` Sharing illegal content.  
+`7)  ` **Minecraft Server Rules** - Promoting a fun play environment  
+`7.1)` All Discord server rules apply.  
+`7.2)` A ban on Discord results in a ban in Minecraft and vice versa.  
+`7.3)` Griefing.  
+`7.4)` Construction of hate symbols.  
+`7.5)` Refusal to listen to moderators and admins.  
 
-`8)  ` **Misusing @PluralKit** - All rules still apply  
-`8.1)` Using it without a plural system. If you don't know what it is, please read the notes.  
-`8.2)` Sending commands in a channel that isn't #pluralkit-configure.**³**  
-`8.3)` Having no system or server tag. This is to help understand what account the message came from.  
+`8)  ` **Breaking Discord [ToS](<https://discord.com/terms>) and [Guidelines](<https://discord.com/guidelines>)**  
+`8.1)` Being underage. Be 13 or older. People found to be underage will be reported and banned.  
+`8.2)` Requesting or posting links to pirated software, including abandonware.  
+`8.3)` Talking about or performing malicious activities. This includes hacking, sharing of viruses, or scamming.  
+`8.4)` Posting of graphic or NSFW content. This is against ToS and this is a PG-13 server.  
+`8.5)` Sending risqué or sexually suggestive content.**¹**  
+`8.6)` Sharing illegal content.  
 
-`9)  ` **Misusing @ModMail** - Send complaints privately to all moderators  
-`9.1)` Using for non-urgent matters. We have #general for basic questions.  
-`9.2)` Sending spam or mass reporting. This slows us down so please don't!  
-`9.3)` Reporting with false or edited information. Personal vendetta is a good reason to report someone.  
-`9.4)` Taking things out of appropriate context. Don't make people look bad to get them banned.  
+`9)  ` **Misusing @PluralKit** - All rules still apply  
+`9.1)` Using it without a plural system. If you don't know what it is, please read the notes.  
+`9.2)` Sending commands in a channel that isn't #pluralkit-configure.**³**  
+`9.3)` Having no system or server tag. This is to help understand what account the message came from.  
+
+`A)  ` **Misusing @ModMail** - Send complaints privately to all moderators  
+`A.1)` Using for non-urgent matters. We have #general for basic questions.  
+`A.2)` Sending spam or mass reporting. This slows us down so please don't!  
+`A.3)` Reporting with false or edited information. Personal vendetta is not a good reason to report someone.  
+`A.4)` Taking things out of appropriate context. Don't make people look bad to get them banned.  
 
 **__Notes:__**  
 **Rules**  
@@ -91,12 +95,10 @@ This bot is not a toy to be played around with and abused. This is not the place
 Misuse of this bot can be considered as discrimination, akin to transphobia or sexism.  
 You can learn more about [Plurality](<https://pluralityresource.org/plurality-information/>), and [Dissociative Disorders](<https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Dissociative-Disorders>) by clicking the respective links.  
  
-Adding a system tag (global):  
- 
-Adding a server tag:  
+Adding a system tag (global) or server tag:  
+Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.  
  
 Basic tutorial:  
-Use the `pk;system tag` or `pk;system servertag` command to permanently append a suffix to the PluralKit webhook username.  
 You can reply to a message and use `pk;edit` to edit a message.  
 Reacting with a ❌ will delete the message.  
  
