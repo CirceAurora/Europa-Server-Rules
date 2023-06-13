@@ -14,11 +14,8 @@ x.y) Evading disciplinary measures. Finding an exploit in permissions or using a
 x.y) Using old rules. Rules will be updated in {#announcements} with all changes stated and are effective immediately.
 ==----==
 x)   **User Rules**
-x.y) Having non-mentionable username and nickname. This is so moderators can alert you.
-x.y) Abusing Unicode to have a blank or esoteric username and nickname.
 x.y) Setting a completely transparent profile picture.¹
 x.y) Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.
-x.y) Using alternate accounts. All alternate accounts will be banned.²
 x.y) If you are banned from the Twitch channel, you will be banned from here and vice versa.
 ==----==
 x)   **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.
