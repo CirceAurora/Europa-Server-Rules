@@ -1,5 +1,5 @@
 **__Rules__:**  
-**Last updated:** Friday, July 15th 2022, 11:33:13 UTC  
+**Last updated:** Tuesday, June 13th 2023, 01:21:26 UTC  
 **¹** This is to be determined at moderator's discretion.  
 **²** Applies to regular members only for moderation purposes. Staff are excluded, however are expected not to abuse the privilege.  
 **³** Related to the conversation is acceptable.  
@@ -14,12 +14,9 @@ If you do anything that is stated below, action will be taken.
 `1.4)` Using old rules. Rules will be updated in #announcements with all changes stated and are effective immediately.  
 
 `2)  ` **User Rules**  
-`2.1)` Having non-mentionable username and nickname. This is so moderators can alert you.  
-`2.2)` Abusing Unicode to have a blank or esoteric username and nickname.  
-`2.3)` Setting a completely transparent profile picture.**¹**  
-`2.4)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
-`2.5)` Using alternate accounts. All alternate accounts will be banned.**²**  
-`2.6)` If you are banned from the Twitch channel, you will be banned from here and vice versa.  
+`2.1)` Setting a completely transparent profile picture.**¹**  
+`2.2)` Impersonating in full or in part. Discord Bots and Users, YouTubers, and real people are included.  
+`2.3)` If you are banned from the Twitch channel, you will be banned from here and vice versa.  
 
 `3)  ` **Chat and Voice Rules** - This is friendly environment for everyone; applicable rules apply in DMs as well.  
 `3.1)` Causing drama or bringing in drama. This is a safe place for everyone!  
