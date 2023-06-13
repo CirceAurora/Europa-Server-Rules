@@ -46,13 +46,6 @@ x.y) Sending a Discord invite link.
 x.y) Posting unacceptable type or subject of advertisement. Read the topic of {#your-stuff} for more information.
 x.y) Sending advertisements in DMs.
 ==----==
-x)   **Minecraft Server Rules** - Promoting a fun play environment
-x.y) All Discord server rules apply.
-x.y) A ban on Discord results in a ban in Minecraft and vice versa.
-x.y) Griefing.
-x.y) Construction of hate symbols.
-x.y) Refusal to listen to moderators and admins.
-==----==
 x)   **Breaking Discord [ToS] and [Guidelines]**
 x.y) Being underage. Be 13 or older. People found to be underage will be reported and banned.
 x.y) Requesting or posting links to pirated software, including abandonware.
